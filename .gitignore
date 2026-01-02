@@ -20,3 +20,4 @@ comparison_results/
 .env
 venv/
 LLM/env_vars.py
+LLM/env_vars.py
