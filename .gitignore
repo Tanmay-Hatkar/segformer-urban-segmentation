@@ -19,3 +19,4 @@ comparison_results/
 # Environment
 .env
 venv/
+LLM/env_vars.py
