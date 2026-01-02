@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large datasets
+CamVid/
+Cityscapes/
+IDD/
+IDD_main/
+KITTI/
+
+# Outputs / artifacts
+comparison_results/
+*.zip
+*.png
+*.txt
+
+# Environment
+.env
+venv/
